@@ -24,4 +24,58 @@
 
 /* Posititoning Classes */
 
+#featured-brands {
+  width: 65%;
 
+  float:left;
+}
+
+#archive-list {
+  width: 35%;
+
+  padding-left: 10px;
+  float: left;
+
+}
+
+#deal1 {
+  float: left;
+  width: 33%;
+  padding-top: 10px;
+  padding-right: 10px
+
+}
+
+#deal2 {
+  float: left;
+  width: 33%;
+  padding-top: 10px;
+  padding-right: 10px
+
+}
+
+#deal3 {
+  float: left;
+  width: 33%;
+  padding-top: 10px;
+
+
+}
+
+#contact {
+  float: left;
+  width: 33%;
+  padding: 20px
+}
+
+#links {
+  float: left;
+  width: 33%;
+  padding: 20px
+}
+
+#follow {
+  float: left;
+  width: 33%;
+  padding: 20px
+}
